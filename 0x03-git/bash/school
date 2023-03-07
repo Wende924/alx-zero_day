@@ -1,9 +1,2 @@
 #!/bin/bash
-echo "ALX"
-^c
- ^C
-C
-c
--c
-c-
-"-c"
+echo "School"
